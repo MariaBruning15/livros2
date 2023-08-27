@@ -1,0 +1,147 @@
+.p1{
+    color:#1A4A65;
+    font-weight: bold;
+    font-size: 46px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+.baixo-livros{
+    background-color: #B1CCD4;
+    height: max-content;
+    width: 100%;
+   
+}
+.livro1{
+    height: 500px;
+    width: 300px;
+    display: flex; 
+    align-items: center; 
+    margin-top: 20px; 
+
+}
+.livro1-img {
+    
+    margin-left: 70px;
+    margin-top: 300px;
+}
+.nome-livro{
+    color:#1A4A65;
+   margin-left: 340px;
+   margin-top: -400px; 
+   height: 500px;
+   width: 400px;
+
+
+}
+.livro1-estrela{
+    margin-left: 86px;
+    height: 40px;
+}
+ .introducao{
+font-size: 20px;
+
+ }
+ .avaliacoes{
+    color: #8D7608;
+    margin-left: 118px;
+    margin-top:-20px;
+    margin-bottom: 40px;
+ }
+ .autora{
+    color: #3A7A8E;
+    margin-left: 46px;
+    margin-top:-30px;
+    margin-bottom: 40px;
+ }
+ .livro2-img{
+    margin-left: 2000px;
+    margin-top: 100px;
+    display: inline-block;
+ }
+ .livro2{
+    height: 500px;
+    width: 300px;
+    display: flex; 
+    align-items: center; 
+    margin-top: 20px; 
+    display: inline-block;
+
+}
+.livro2-img {
+    
+    margin-left: 500px;
+    margin-top: -300px;
+    display: inline-block;
+}
+.nome-livro2{
+    margin-left: 700px;
+    margin-top: -920px;
+    height: 500px;
+    width: 500px;
+   
+}
+.introducao2{
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top:-20px;
+}
+
+.livro2-estrela{
+    margin-left: 160px;
+    height: 40px;
+}
+.avaliacoes2{
+    color: #8D7608;
+    margin-left: 200px;
+    margin-top:-20px;
+    margin-bottom: 40px;
+}
+.autora2{
+    color: #3A7A8E;
+    margin-left: 126px;
+    margin-top:-40px;
+    margin-bottom: 40px;
+}
+.lancamento-livros{
+    background-color: #B1CCD4;
+    height: 550px;
+    width: 800px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.livronovo-img{
+margin-left: 50px;
+margin-top: 90px;
+
+}
+.lancamento{
+    color:#1A4A65;
+    margin-left: 340px;
+    margin-top: -400px; 
+    height: 500px;
+    width: 400px;
+   
+    
+    
+}
+.introducao-novo{
+    width: 300px;
+    height: 300px;
+    font-size: 25px;
+    margin-left: 10px;
+ margin-top: 15px;
+ 
+}
+.botao{
+    margin-top: 80px;
+    height: 50px;
+    width: 50px;
+    background-color: #1A4A65;
+    color: white;
+    border-radius: 5px;
+
+}
+
